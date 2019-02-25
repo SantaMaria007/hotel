@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>comments</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-20 16:53:14</sys_created_on>
+        <sys_id>e0cc34b8dbbf2300cd849444ca961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_ui_policy_action_e0cc34b8dbbf2300cd849444ca961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-20 16:53:14</sys_updated_on>
+        <table>x_hotel_check_in</table>
+        <ui_policy display_value="Force comment if in the past">4a7c70b8dbbf2300cd849444ca961927</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
